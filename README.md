@@ -2,7 +2,7 @@
 
 > **A modern, enterprise-grade dark UI template for AI-powered ur use case. In this case we have maintenance, equipment monitoring, and predictive analytics assistants.U can Update it for**
 
-![TechITAIChat Preview](/frontend/src/assets/image.png) <!-- Replace with your screenshot link -->
+![TechITAIChat Preview](/src/assets/image.png) <!-- Replace with your screenshot link -->
 
 
 
