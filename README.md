@@ -13,3 +13,7 @@
    git clone https://github.com/Eng-ZAKARIAE-AI/TechITAIChat-UI
 
    cd TechITAIChat-UI
+   
+   npm install # install all dep u need
+   npm run dev # start the UI 
+
