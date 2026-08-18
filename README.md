@@ -1,4 +1,4 @@
-# TechITAIChat ⚡
+# TechITAIChat 
 
 > **A modern, enterprise-grade dark UI template for AI-powered ur use case. In this case we have maintenance, equipment monitoring, and predictive analytics assistants.U can Update it for**
 
